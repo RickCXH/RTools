@@ -1,16 +1,15 @@
 //
-//  CXHTools.swift
-//  TospurB
+//  RTools.swift
 //
 //  Created by Rick on 2020/12/26.
-//  Copyright © 2020 tospur co,.ltd. All rights reserved.
+//  Copyright © 2020. All rights reserved.
 //
 
 import UIKit
 
-class RTools: NSObject {
+public class RTools: NSObject {
 
-    func test() {
+    public func test() {
         print("hello world!")
     }
 }
