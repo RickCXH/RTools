@@ -1,0 +1,6 @@
+framework module RTools {
+  umbrella header "RTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

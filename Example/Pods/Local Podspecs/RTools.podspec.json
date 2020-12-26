@@ -1,0 +1,22 @@
+{
+  "name": "RTools",
+  "version": "0.1.0",
+  "summary": "A short description of RTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/RickCXH/RTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RickCXH": "18756232166@163.com"
+  },
+  "source": {
+    "git": "https://github.com/RickCXH/RTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RTools/Classes/**/*"
+}

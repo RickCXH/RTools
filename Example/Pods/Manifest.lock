@@ -1,0 +1,16 @@
+PODS:
+  - RTools (0.1.0)
+
+DEPENDENCIES:
+  - RTools (from `../`)
+
+EXTERNAL SOURCES:
+  RTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RTools: 7a7f3e593f583d2101e2e9ce0359bd6938b7cafc
+
+PODFILE CHECKSUM: 58e071c4fa1bb4eb71fcf9e8e8515b9f6c754ce9
+
+COCOAPODS: 1.10.0
