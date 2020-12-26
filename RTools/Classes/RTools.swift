@@ -8,7 +8,7 @@
 
 import UIKit
 
-class CXHTools: NSObject {
+class RTools: NSObject {
 
     func test() {
         print("hello world!")
